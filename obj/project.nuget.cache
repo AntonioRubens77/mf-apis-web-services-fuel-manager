@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5DC3GEmvAIg=",
+  "success": true,
+  "projectFilePath": "C:\\Graduação na PUC\\6° Semestre\\WEB API\\mf-apis-web-services-fuel-manager\\mf-apis-web-services-fuel-manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANTÔNIO RUBENS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\ANTÔNIO RUBENS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "C:\\Users\\ANTÔNIO RUBENS\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
+    "C:\\Users\\ANTÔNIO RUBENS\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.6\\swashbuckle.aspnetcore.9.0.6.nupkg.sha512",
+    "C:\\Users\\ANTÔNIO RUBENS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.6\\swashbuckle.aspnetcore.swagger.9.0.6.nupkg.sha512",
+    "C:\\Users\\ANTÔNIO RUBENS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.6\\swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",
+    "C:\\Users\\ANTÔNIO RUBENS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
