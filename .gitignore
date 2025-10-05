@@ -22,8 +22,8 @@ rad.json
 TestResults.xml
 
 # .NET general
-bin/
-obj/
+**/bin/
+**/obj/
 .vs/
 *.user
 *.suo
