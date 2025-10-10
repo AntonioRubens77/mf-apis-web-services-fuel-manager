@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mf-apis-web-services-fuel-manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc1b5275aec1633a137d35281e006175b7cc754")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb271146837fc4b7455b85f4690292626e7be78")]
 [assembly: System.Reflection.AssemblyProductAttribute("mf-apis-web-services-fuel-manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mf-apis-web-services-fuel-manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
